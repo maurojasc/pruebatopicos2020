@@ -16,6 +16,7 @@ public class Topicos20201 {
      */
     public static void main(String[] args) {
         System.out.println("modificación 1 mayo 4 hora 10:40 inicio del proyecto");
+        System.out.println("modificación 2 mayo 4 2020 hora 11:05");
     }
     
 }
